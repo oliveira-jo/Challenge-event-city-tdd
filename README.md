@@ -9,19 +9,19 @@ This project present a challenge to implement the necessary funcionalities to al
 
 ## Required
 
-- DELETE /cities/{id} should return  404 Not Found when id does not exist
+- ✅ DELETE /cities/{id} should return  404 Not Found when id does not exist 
 
-- DELETE /cities/{id} should return  204 No Content when id exists
+- ✅ DELETE /cities/{id} should return  204 No Content when id exists 
 
-- DELETE /cities/{id} should return  400 Bad Request when dependent id
+- ✅ DELETE /cities/{id} should return  400 Bad Request when dependent id 
 
-- POST /cities should insert resource ✅
+- ✅ POST /cities should insert resource 
 
-- GET /cities should return resource order by name
+- ✅ GET /cities should return resource order by name 
 
-- PUT /events should update resource when id exists
+- ✅ PUT /events should update resource when id exists 
 
-- PUT /events should return 404 Not Found when id does not exist
+- ✅ PUT /events should return 404 Not Found when id does not exist 
 
 ## Skils
 
