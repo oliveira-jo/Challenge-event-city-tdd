@@ -15,7 +15,7 @@ This project present a challenge to implement the necessary funcionalities to al
 
 - DELETE /cities/{id} should return  400 Bad Request when dependent id
 
-- POST /cities should insert resource
+- POST /cities should insert resource ✅
 
 - GET /cities should return resource order by name
 
